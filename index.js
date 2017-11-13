@@ -31,4 +31,4 @@ const getClosestNumber = (n, targetArray) => {
   return closest
 }
 
-module.exports default getClosestNumber
+export default getClosestNumber
